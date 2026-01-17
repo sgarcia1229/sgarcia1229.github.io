@@ -1,0 +1,31 @@
+.center-text {
+  text-align: center;
+}
+
+body {
+   background-color:#E5DED2;
+}
+
+h1 {
+   color: green;
+   font-family:helvetica;
+   text-align: center;
+   border: 5px dotted #E1EFC3;
+   padding: 50px;
+}
+
+h2 {
+   color: green;
+   text-align: center;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+}
+
+img {
+   border: 5px solid #E1EFC3; 
+   width: 30%;
+   height: 30%;
+}   
